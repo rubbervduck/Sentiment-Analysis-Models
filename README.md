@@ -3,7 +3,6 @@ DSA Project Research
 
 Machine Learning Models   
 Model 1 : Logistic Regression Accuracy of 94.06% (often ovefits so we implemented SVM)
-
 Model 2 : Logistic Regression with Supervised Machine Learning Accuracy 85.04%
 
 Deep Learning Model 
